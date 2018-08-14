@@ -1,0 +1,14 @@
+{
+  "name": "modern-portafolio",
+  "version": "1.0.0",
+  "description": "Responsive",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "Leonel Hiraldo Ramos",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.9.3"
+  }
+}
