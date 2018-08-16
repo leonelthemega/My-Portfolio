@@ -4,7 +4,9 @@
 * {
   box-sizing: border-box;
 }
-
+span {
+  color: $secondary-color;
+}
 body {
   @include background();
   background: $primary-color;
